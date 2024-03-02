@@ -33,7 +33,7 @@ const cards = [
             />
         ),
         className: "md:col-span-2",
-        thumbnail: "/IMG_7238.jpg",
+        thumbnail: "/kayak.jpg",
     },
     {
         id: 2,
@@ -44,13 +44,13 @@ const cards = [
             />
         ),
         className: "col-span-1",
-        thumbnail: "/IMG_7250.jpg",
+        thumbnail: "/sg.jpg",
     },
     {
         id: 3,
         content: "",
         className: "col-span-1",
-        thumbnail: "/IMG_9772.jpg",
+        thumbnail: "/moon.jpg",
     },
     {
         id: 4,
@@ -61,7 +61,7 @@ const cards = [
             />
         ),
         className: "md:col-span-2",
-        thumbnail: "/IMG_9677.jpg",
+        thumbnail: "/punt.jpg",
     },
 ];
 
